@@ -106,4 +106,4 @@ Dataset can be sourced from platforms like Yahoo Finance or Kaggle.
 
  👩‍💻 Author
    Pooja Kumari
-   GitHub: [Your GitHub Profile Link]   
+   GitHub: https://github.com/pooja384  
